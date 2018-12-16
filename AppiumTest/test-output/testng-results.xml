@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55425" started-at="2018-12-16T12:50:16Z" finished-at="2018-12-16T12:51:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55425" started-at="2018-12-16T12:50:16Z" finished-at="2018-12-16T12:51:12Z">
+      <class name="Tests.AddKindlePaperWhileToCart">
+        <test-method status="PASS" signature="setCapabilties()[pri:1, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="setCapabilties" duration-ms="21792" started-at="2018-12-16T12:50:16Z" finished-at="2018-12-16T12:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCapabilties -->
+        <test-method status="PASS" signature="selectSkipLogin()[pri:2, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectSkipLogin" duration-ms="5832" started-at="2018-12-16T12:50:38Z" finished-at="2018-12-16T12:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSkipLogin -->
+        <test-method status="PASS" signature="selectShopByCategory()[pri:3, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectShopByCategory" duration-ms="5687" started-at="2018-12-16T12:50:44Z" finished-at="2018-12-16T12:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectShopByCategory -->
+        <test-method status="PASS" signature="selectCategory()[pri:4, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectCategory" duration-ms="10966" started-at="2018-12-16T12:50:50Z" finished-at="2018-12-16T12:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCategory -->
+        <test-method status="PASS" signature="selectItemKindleEReader()[pri:5, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectItemKindleEReader" duration-ms="4174" started-at="2018-12-16T12:51:01Z" finished-at="2018-12-16T12:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItemKindleEReader -->
+        <test-method status="PASS" signature="selectKindlePaperWhite()[pri:6, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectKindlePaperWhite" duration-ms="5266" started-at="2018-12-16T12:51:05Z" finished-at="2018-12-16T12:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectKindlePaperWhite -->
+        <test-method status="PASS" signature="selectAddtoCart()[pri:7, instance:Tests.AddKindlePaperWhileToCart@6dde5c8c]" name="selectAddtoCart" duration-ms="1642" started-at="2018-12-16T12:51:10Z" finished-at="2018-12-16T12:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAddtoCart -->
+      </class> <!-- Tests.AddKindlePaperWhileToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
